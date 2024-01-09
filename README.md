@@ -1,5 +1,4 @@
-# CMPUT 469 Project
-# Project-Starter
+# CMPUT 469 Project Starter
 
 ## Team members
 
